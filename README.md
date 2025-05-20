@@ -2,11 +2,6 @@
 
 A responsive Profile screen UI implementation with interactive features, light/dark theme support, and modal dialogs.
 
-<div align="center">
-  <img src="docs/images/dark-theme.png" alt="Dark Mode" width="320">
-  <img src="docs/images/light-theme.png" alt="Light Mode" width="320">
-</div>
-
 ## Features
 
 - Mobile-first, responsive design
@@ -65,11 +60,9 @@ http://localhost:5173
 
 ## Screenshots
 
-### Profile Overview (Dark Mode)
-![Dark Mode Full Profile](docs/images/dark-mode-full.png)
+### Dark Mode
 
-### Light Mode with Modal
-![Light Mode with Modal](docs/images/light-mode-modal.png)
+### Light Mode
 
 ### Mobile View
 ![Mobile View](docs/images/mobile-view.png)
