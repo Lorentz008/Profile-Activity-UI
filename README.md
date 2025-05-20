@@ -65,7 +65,6 @@ http://localhost:5173
 ### Light Mode
 
 ### Mobile View
-![Mobile View](docs/images/mobile-view.png)
 
 ## License
 
